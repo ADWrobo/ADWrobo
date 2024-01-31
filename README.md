@@ -1,8 +1,8 @@
 # 👋 Hi there
 
-![](https://img.shields.io/badge/BA%20English-8A2BE2)
-![](https://img.shields.io/badge/MA%20English-8A2BE2)
-![](https://img.shields.io/badge/MS%20Software%20Engineer-8A2BE2)
+![](https://img.shields.io/badge/BA%20English-18344f)
+![](https://img.shields.io/badge/MA%20English-510c76)
+![](https://img.shields.io/badge/MS%20Software%20Engineering-510c76)
 
 ## 🤝 Nice to meet you
 
