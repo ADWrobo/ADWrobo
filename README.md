@@ -1,11 +1,12 @@
 # 👋 Hi there
 
-[![my blog](needs shield](url)
-![i major in computer science](needs shield)
+![](https://img.shields.io/badge/BA%20English-8A2BE2)
+![](https://img.shields.io/badge/MA%20English-8A2BE2)
+![](https://img.shields.io/badge/MS%20Software%20Engineer-8A2BE2)
 
 ## 🤝 Nice to meet you
 
-I'm Anthony. 
+I'm Anthony Wroblewski. I currently work for the Univesity of Minnesota as a software developer for custom applications. I am one semester away from completing my graduate program in software engineering at the University of St. Thomas. This is my personal GitHub account, which I may put academic and personal projects on. 
 
 ## 💻 Fluent in
 
